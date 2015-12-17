@@ -1,0 +1,28 @@
+name: CommunityInsurance
+favicon: null
+layout_spectrum: 0.7874125812668353
+typography_spectrum: 0.2510644136928022
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7083953085821122
+  lightness: 0.46734747011214495
+  saturation: 0.014469481306150556
+  rhythmicContrast: 0.4553361830767244
+purpose: []
