@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TheStache]]></title>
+        <description><![CDATA[TheStache]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 25 Feb 2016 20:35:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bill Richards is first Mini driver home on the Monte Carlo Historique Rally]]></title>
+            <description><![CDATA[<article><h1>Bill Richards is first Mini driver home on the Monte Carlo Historique Rally</h1><p>Bill Richards survived two hairy moments on the Monte Carlo Historique Rally to finish as the first Mini driver on the gruelling event. The veteran Ashford racing driver, 65, competed in the French Alps with new navigator Graham Carter.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1db1256b6715340e1c6a2d5de2e107b8c9edfaaa.jpg"></article>]]></description>
+            <link>http://www.kentonline.co.uk/ashford/sport/richards-makes-his-mark-90738/</link>
+            <guid isPermaLink="false">5597aabe-2136-41a5-96f5-2f8c5e3e082c</guid>
+            <pubDate>Thu, 25 Feb 2016 20:27:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
